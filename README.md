@@ -43,7 +43,7 @@ predictive_maintenance_project/
 
 Установка и запуск
 Клонируйте репозиторий:
-git clone https://github.com/Pro101krab/VKR.git
+git clone https://github.com/GaysinII/Pro101krab-VKR
 cd VKR
 
 Установите зависимости:
@@ -139,4 +139,4 @@ streamlit-option-menu==0.3.2 - для создания меню навигаци
 Контакты
 Автор проекта: [Ильсур]
 Email: [ilsyr.gaysin@gmail.com]
-GitHub: [https://github.com/GaysinII/predictive_maintenance_project_demo.git]
+GitHub: [https://github.com/GaysinII/Pro101krab-VKR]
